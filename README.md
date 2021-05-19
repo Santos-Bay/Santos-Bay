@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santos-Bay
 - 👀 I’m interested in microbiome research
-- 🌱 I’m currently learning bioinformatics and statistics
+- 🌱 I’m currently improving my skills in bioinformatics and statistics
 - 📫 How to reach me luisa.nielsen@sund.ku.dk
 
 <!---
